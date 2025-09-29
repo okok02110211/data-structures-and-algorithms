@@ -23,14 +23,14 @@ public class Practice1Test {
     public static void set(){
 
         input1 = "4\n" +
-                "2 3 1" +
-                "5 2 4 1";
+                "2 3 1\n" +
+                "5 2 4 1\n";
 
         output1 = 18;
 
         input2 = "4\n" +
-                "3 3 4" +
-                "1 1 1 1";
+                "3 3 4\n" +
+                "1 1 1 1\n";
 
         output2 = 10;
     }
